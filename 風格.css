@@ -1,0 +1,37 @@
+header {
+    background-color:rgb(185, 172, 212);
+    font-size: 42px
+}
+
+body {
+    background-color:rgb(211, 196, 240);
+    position: relative;
+}
+
+.para-title {
+    font-weight: bold;
+}
+
+.para-1-title {
+    font-weight: bold;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 50px;
+    padding-left: 50px;
+    width: fit-content;
+    max-width: 1140px; 
+    /* 隨螢幕尺寸而變，當螢幕尺寸 ≥ 1200px 時是 1140px。 */
+    background-color: rgba(255, 255, 255, 0.144)
+;
+  }
+
+img {
+    width: 1040;
+}
+
+.conclusion {
+    font-weight: bold;
+}
